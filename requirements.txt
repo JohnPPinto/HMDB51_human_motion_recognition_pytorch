@@ -1,0 +1,14 @@
+av
+rarfile
+numpy
+pandas
+scikit-learn
+opencv-python
+matplotlib
+torch
+torchvision
+torchaudio
+torchmetrics
+torchinfo
+lightning
+gradio

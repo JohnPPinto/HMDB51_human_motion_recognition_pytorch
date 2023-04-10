@@ -1,0 +1,9 @@
+model,training_time(min)
+Pytorch Eager,5.794008524731423
+Pytorch Compile,7.790816101416325
+Pytorch Lightning,7.688747247812959
+PyTorch Lightning + Compile,10.542457145118776
+Fabric Lightning,6.551207953396564
+Fabric + Compile,7.605610002111644
+Fabric + Precision,6.315719912170122
+Fabric + Precision + Compile,8.442741440515965
